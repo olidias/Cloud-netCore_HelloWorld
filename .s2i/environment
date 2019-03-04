@@ -1,1 +1,2 @@
 DOTNET_STARTUP_PROJECT=HelloWorld-netcore/HelloWorld-netcore.csproj
+DOTNET_SDK_VERSION=2.1.504
